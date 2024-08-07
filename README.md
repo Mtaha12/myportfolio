@@ -28,7 +28,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/portfolio-website.git
+
 Navigate to the Project Directory
 
 bash
